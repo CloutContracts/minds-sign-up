@@ -1,2 +1,2 @@
-# minds-sign-up
-Signup for Minds.com Users
+# Waitlist
+Signup for [Minds.com](https://minds.com) Users
